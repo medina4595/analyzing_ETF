@@ -7,9 +7,9 @@ This project leverages python 3.7
 
 # Screenshots
 
-![screen shots](2.jpg)
-![screen shots](3.jpg)
-![screen shots](Capture.jpg)
+![screen shots](screen shots/2.jpg)
+![screen shots](screen shots/3.jpg)
+![screen shots](screen shots/Capture.jpg)
 
 
 
