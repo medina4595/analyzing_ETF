@@ -1,5 +1,5 @@
 # analyzing_ETF
-Financial database and web application that analyzes ETF's using sql to pull the data and filter it, various calculations, and hvplot to show interactive charts.
+Financial database and web application that analyzes ETF's using sql to pull the data and filters it through various calculations. Uses hvplot to show data in interactive charts.
 
 # Technologies
 
